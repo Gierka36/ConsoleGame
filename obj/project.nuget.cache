@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "328wlFIAKSnggU9K43k66M1di+2XBwSEoacXy/VbTkE3DHJQydi0VcOSVSRbzu9WzTfN4z5IG4wnNzp8VFgOpw==",
+  "success": true,
+  "projectFilePath": "/home/gierka/Documents/ConsoleGame/shores-of-emberbay.csproj",
+  "expectedPackageFiles": [
+    "/home/gierka/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/gierka/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/home/gierka/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
